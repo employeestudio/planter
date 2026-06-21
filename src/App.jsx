@@ -644,10 +644,12 @@ export default function App() {
     [year]
   )
 
-  const nearestYear = useMemo(
-    () => EVENT_GROUPS.reduce((c, g) => Math.abs(g.year - year) < Math.abs(c.year - year) ? g : c).year,
-    [year]
-  )
+  const nearestYear = useMemo(() => {
+    const nearest = EVENT_GROUPS.reduce((c, g) =>
+      Math.abs(g.year - year) < Math.abs(c.year - year) ? g : c
+    )
+    return Math.abs(nearest.year - year) <= 15 ? nearest.year : null
+  }, [year])
   const handleSelect = useCallback(id => setSelectedId(prev => prev === id ? null : id), [])
 
   const visible = useMemo(

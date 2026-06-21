@@ -545,3 +545,18 @@ html, body, #root {
 .react-flow__node:focus          { outline: none !important; }
 /* display:contents wrapper for data-person-role — ensure it doesn't affect layout */
 [data-person-role] { display: contents; }
+
+/* Controls zoom buttons */
+.react-flow__controls-button {
+  background: #1a1a1a !important;
+  border-bottom-color: #2a2a2a !important;
+  fill: #c4c4c4 !important;
+  color: #c4c4c4 !important;
+  width: 28px !important;
+  height: 28px !important;
+}
+.react-flow__controls-button:hover {
+  background: #2a2a2a !important;
+  fill: #fff !important;
+  color: #fff !important;
+}
