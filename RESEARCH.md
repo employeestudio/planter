@@ -1699,6 +1699,105 @@ WikiTree lists the grandfather as being from **"Burton Cottles, Lincolnshire."**
 
 ---
 
+### Burton Coggles, Lincolnshire — The Ancestral Village (June 2026)
+
+#### "Burton Cottles" Was a Transcription Error
+
+The WikiTree entry listing the grandfather's location as "Burton Cottles, Lincolnshire" is a garbled form of **Burton Coggles** (full historic name: **Burton-le-Coggles**, medieval: *Byrton-en-les-Coggles*). There is no village called Burton Cottles in Lincolnshire — "Burton Cottles" is in Wiltshire, with no Coy connections and records only from 1858. The phonetic similarity caused the error: "Coggles" → "Cottles."
+
+#### Location and Geography
+
+Burton Coggles is a small village in the **South Kesteven** district of Lincolnshire:
+
+| Detail | Value |
+|---|---|
+| District | South Kesteven |
+| Wapentake / Hundred | **Beltisloe** |
+| Diocese | Lincoln |
+| Distance from Grantham | ~7 miles south |
+| Distance from Stamford | ~20 miles north |
+| Distance from Boston, Lincs | ~35 miles north |
+| River | On an affluent of the River Glen |
+| Parish acreage | 2,676 acres |
+| Population (c.1894) | 236 (a very small community) |
+
+**Beltisloe Wapentake is the same administrative hundred as Lenton village** — Lucy Lenten's probable family home. Two villages in the same hundred, just a few miles apart, under the same administrative, tax, and church jurisdiction. This is the geographic nexus of the entire Coy origin story.
+
+#### The Name "Coggles"
+
+- **Burton**: Old English *burh-tūn* — fortified farmstead, farmstead near a manor stronghold
+- **Coggles**: descriptive element referring to cobblestones or small rounded stones (*coggles* / *cobbles*) — a description of the physical terrain. This is the Middle English / dialectal form; the medieval name *en-les-Coggles* uses Norman French article construction (*les* = the), suggesting the cobbled road or cobbled ground was a landmark feature.
+
+#### The Church: St Thomas à Becket (St Thomas of Canterbury)
+
+A **Grade I listed** medieval church — the oldest building in the village by centuries:
+
+| Feature | Details |
+|---|---|
+| Dedication | St Thomas à Becket (diocesan name: St Thomas of Canterbury) |
+| Tower | c.1200 — Early English Gothic; two-stage unbuttressed tower with broach spire and annular shafts |
+| South aisle | c.1300 |
+| Chancel | Early 14th century |
+| Original patron | Crowland Abbey (gift of advowson from 1113) |
+| Post-Dissolution | Crowland Abbey dissolved 1539; advowson passed to Crown, then to lay impropriatators |
+| Parish registers | From 1538 — images on FamilySearch (1538–1990); Findmypast (1538–1911); FreeREG free index |
+| Bishop's Transcripts | 1561–1834 (some source gives 1651 for FamilySearch BTs) |
+
+The Crowland Abbey dissolution in 1539 is significant context: by Richard Coy's birth c.1590, the parish had been through 50 years of post-Reformation change. The patronage and tithes formerly flowing to the abbey would have been sold to local gentry. This means the rector in Richard Coy's lifetime was appointed by a lay patron — likely the Cholmeley family.
+
+In the 17th century, **William Ayscough** (Trinity College Cambridge) held the rectorship. He was the uncle of **Isaac Newton** (born 1643, Woolsthorpe-by-Colsterworth, ~7 miles away). Newton's mother Hannah was Ayscough's sister. This places Burton Coggles within the same intimate social network that produced one of England's most famous scientists — all of them living within a radius of 10 miles in the Kesteven countryside.
+
+#### The Lord of the Manor: The Cholmeley Baronets
+
+The **Cholmeley family** held the manor of Burton Coggles:
+
+- **Sir Henry Cholmeley of Burton Coggles** — died 1620. He was the lord of the manor during Richard Coy's formative years (Richard born c.1590, Sir Henry died when Richard was ~30). The Cholmeley baronets of Lincolnshire trace their line from this Sir Henry.
+- The Cholmeley family also acquired **Easton Manor** (adjacent, ~2 miles away) in 1592–1606, consolidating their landholding in the area.
+- The village pub today, the **Cholmeley Arms**, is named after them — a measure of how central they were to village identity for centuries.
+- In a village of ~50–100 households, the lord of the manor and the rector would have known every family personally. The Coy family, as yeoman farmers or tradespeople, would have held their land at the Cholmeleys' tenure.
+
+#### The Parish Name Index — All Four Coy-Connected Surnames
+
+The **FreeREG name index for St Thomas à Becket, Burton Coggles** confirms the following surnames all appear in the parish records:
+
+| Surname | Connection to the Coy Family |
+|---|---|
+| **COY** | The patriarch's family |
+| **COYE** | Variant spelling, same family |
+| **LENTON** (incl. LENTON?, LENTTON?) | Lucy's family (maiden name Lenten/Lenton) |
+| **TOWNESEND / TOWNSEND** | Adam Townsend, will witness |
+| **SNART** | John Snart, will witness |
+
+All three of Richard Coy's will witnesses — John Lenten (Lucy's relative), Adam Townsend, and John Snart — have surname matches in the Burton Coggles register. **This is not coincidence.** In a village of a few hundred people, these were all neighbors. The will witnesses were drawn from the same tight community. This single data point — five connected surnames in one tiny village's parish index — is the strongest circumstantial evidence yet that Burton Coggles is the origin point for the Richard Coy line.
+
+#### Why the Children Were Born in Boston, Lincolnshire
+
+If the Coy family was from Burton Coggles, why are Matthew (c.1622/23), Richard (c.1625), and Mary (c.1612) described as from **Boston, Lincolnshire**?
+
+The most likely explanation: Richard Coy moved from Burton Coggles (~7 miles south of Grantham) to Boston (~35 miles north) sometime before 1612, when Mary was born. This migration — south to north along the Kesteven corridor — would have followed **trade routes and Puritan networks**. Boston was the great port town of Lincolnshire, home to John Cotton's famous preaching at St Botolph's from 1612, and the primary hub for Puritan emigration. A young man from Burton Coggles moving to Boston in the 1600s to work (in trade, shipping, crafts) fits the period exactly.
+
+The will was proved at **Stamford** — roughly 20 miles south of Grantham, near Burton Coggles. This suggests Richard retained ties to south Kesteven even while living in Boston, possibly because family remained there, or because the will was handled in the nearest ecclesiastical court with jurisdiction over the Beltisloe area.
+
+#### What Burton Coggles Was Known For, 1590–1638
+
+In Richard Coy's lifetime, Burton Coggles was:
+- A small agricultural parish of yeoman farmers and tenant laborers under Cholmeley lordship
+- Under the spiritual authority of the Diocese of Lincoln (a high-church diocese, increasingly in tension with Puritan tendencies in the eastern counties)
+- Part of the same county landscape that produced the emigration wave of 1630s Lincolnshire Puritans — Atherton Haugh, John Whittingham, John Cotton, and the Boston emigration network
+- Situated in a region that would become Newton country within a generation — the same dense network of gentry, clergy, and yeomen that produced both the scientific revolution and New England emigration
+
+#### Next Steps — Parish Records
+
+The most productive immediate step is searching the **Burton Coggles baptism register (1538 onward)** for:
+- Any Coy/Coye baptisms 1560–1600 (which would be Richard's generation and his father's)
+- Lenten/Lenton baptisms in the same period (Lucy's parentage)
+- Townsend baptisms 1560–1620 (confirming Adam Townsend's origin)
+- Snart baptisms (same)
+
+FamilySearch has images from 1538. A search of the Burton Coggles baptism index would likely surface Richard's baptism (c.1590) and possibly his parents' marriage. This is now the highest-value archival action available without a subscription to Lincolnshire Archives.
+
+---
+
 ### Mary (Coy) Lake — WikiTree Coy-161 Findings
 
 Mary Coy is the daughter of Richard Coy (the patriarch) most relevant to the data.js "lucy-mary-coy" entry. Key established facts:
