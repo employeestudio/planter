@@ -1786,15 +1786,64 @@ In Richard Coy's lifetime, Burton Coggles was:
 - Part of the same county landscape that produced the emigration wave of 1630s Lincolnshire Puritans — Atherton Haugh, John Whittingham, John Cotton, and the Boston emigration network
 - Situated in a region that would become Newton country within a generation — the same dense network of gentry, clergy, and yeomen that produced both the scientific revolution and New England emigration
 
+#### The FamilySearch Baptism Index — Access
+
+The Burton Coggles parish register is online with images at multiple services:
+
+| Service | Coverage | Access |
+|---|---|---|
+| FamilySearch | Baptisms/marriages/burials 1538–1990 with images | Free account required |
+| Findmypast | 1538–1911 with images | Subscription |
+| Ancestry | 1530–1991 index | Subscription |
+| FreeREG | Free index (JS-driven search) | Free but JavaScript required |
+
+Direct web searches for COY or COYE entries in these databases are blocked by login walls. The FreeREG name index (accessible without login) already confirms COY/COYE appear in the register — the specific entry dates require a search session. The most actionable step: log in to FamilySearch and search the Burton Coggles baptism index for Coy/Coye, 1550–1620.
+
+#### The Nixe-Coy Connection — A 1565 Will
+
+While searching the baptism database directly proved blocked, a parallel search uncovered a document that predates any expected baptism record by a generation: **Marie (Nixe) Newton's will, dated December 1, 1565, proved at the Prerogative Court of Canterbury, January 19, 1565/6.**
+
+Marie Nixe (born c.1520 in Burton Coggles; buried December 17, 1565, at St Thomas à Becket, Bassingthorpe, Lincolnshire) was the daughter of **Thomas Nixe** (d. before March 22, 1545) and Katherine Nixe. She married John Newton of Westby (the Newton family connected to the broader network that later produced Isaac Newton, whose uncle William Ayscough was rector of Burton Coggles).
+
+In her will, placing the care of her daughter Isabell Newton, she wrote:
+
+> *"at the discrecion of my suster Coye and my sister Nixe"*
+
+**"My suster Coye"** — a Nixe sister who had married a Coy man and was known by her husband's surname. This is the earliest documented reference to the **Coy name in direct connection with Burton Coggles**, predating Richard Coy's birth by ~25 years.
+
+**Source:** Foster, C.W. (1928). "Sir Isaac Newton's Family." *Reports and Papers of the Architectural and Archaeological Societies of the County of Lincoln, etc.* p. 32. Available in the series at Archive.org (`archive.org/details/reportspapersofa01asso`); the specific 1928 volume (est. vol. 38–40) has not yet been accessed.
+
+#### Chronological Significance of the Nixe-Coy Will
+
+| Person | Estimated birth | Role |
+|---|---|---|
+| Thomas Nixe | c.1500, Burton Coggles | Marie's father |
+| "Sister Coye" (née Nixe) | c.1515–1530, Burton Coggles | Married a Coy man; named in Marie's 1565 will |
+| Unknown Coy husband of "Sister Coye" | c.1510–1530 | First documented Coy at Burton Coggles (inferred) |
+| Children of "Sister Coye" + husband | c.1540–1570 | Would be Richard Coy's father's generation |
+| Richard Coy (patriarch) | c.1590–1638 | Could be grandchild of "Sister Coye" |
+
+The generation math works cleanly: "sister Coye" (born c.1520) → child (born c.1545–1560) → grandchild Richard Coy (born c.1590). The Coy family was present and connected to the established Burton Coggles Nixe-Newton network at least a generation before Richard's birth.
+
+#### The Bassingthorpe-Westby-Burton Coggles Triangle
+
+These three villages form a tight geographic cluster in south Kesteven, all within ~3 miles of each other:
+- **Burton Coggles** — where the Nixe family originated and where COY/LENTON/TOWNSEND/SNART all appear in the parish register
+- **Westby** — John Newton's home (adjacent to Burton Coggles; Westby is now part of the Bassingthorpe-with-Westby civil parish)
+- **Bassingthorpe** — where Marie Nixe Newton was buried (at St Thomas à Becket, Bassingthorpe)
+
+The fact that Marie Newton used the PCC (Prerogative Court of Canterbury) rather than a local Lincoln diocese court for her will suggests her estate had connections outside the Diocese of Lincoln — possibly assets in multiple counties, or executors who were themselves connected to London.
+
 #### Next Steps — Parish Records
 
-The most productive immediate step is searching the **Burton Coggles baptism register (1538 onward)** for:
-- Any Coy/Coye baptisms 1560–1600 (which would be Richard's generation and his father's)
-- Lenten/Lenton baptisms in the same period (Lucy's parentage)
-- Townsend baptisms 1560–1620 (confirming Adam Townsend's origin)
-- Snart baptisms (same)
+The most productive immediate step is a logged-in FamilySearch search of the **Burton Coggles baptism register (1538 onward)** for:
 
-FamilySearch has images from 1538. A search of the Burton Coggles baptism index would likely surface Richard's baptism (c.1590) and possibly his parents' marriage. This is now the highest-value archival action available without a subscription to Lincolnshire Archives.
+1. **Coy/Coye baptisms 1550–1610** — would name Richard Coy's father and possibly Richard himself (b. c.1590)
+2. **Nixe/Coye marriages 1530–1560** — would identify "sister Coye"'s husband and confirm the Nixe-Coy family union
+3. **Lenten/Lenton baptisms 1560–1600** — Lucy's family of origin
+4. **Townsend and Snart baptisms 1560–1620** — confirming the will witnesses came from Burton Coggles
+
+The Foster 1928 article (vol. ~38–40 of the Lincoln Archaeological Society series) is the second-highest-value document — it may provide additional Nixe family details and the full will transcription naming "sister Coye."
 
 ---
 
