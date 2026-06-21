@@ -1847,6 +1847,48 @@ The Foster 1928 article (vol. ~38–40 of the Lincoln Archaeological Society ser
 
 ---
 
+### The Nixe Family Tree — What Is Established
+
+The Newton family tree reveals that Marie Nixe Newton was the **great-great-grandmother of Sir Isaac Newton (1643–1727)**:
+
+```
+Thomas Nixe (c.1500, Burton Coggles)
+  └── Marie Nixe (c.1520, Burton Coggles)
+        └── Richard Newton (c.1544, Westby)
+              └── Robert Newton (c.1576)
+                    └── Isaac Newton [father] (c.1606)
+                          └── Sir Isaac Newton (1643–1727, Woolsthorpe)
+```
+
+The same Kesteven village (Burton Coggles, ~7 miles from Woolsthorpe) that produced the Nixe-Coy family connection also sits at the root of Newton's family tree. William Ayscough, rector of Burton Coggles, was Newton's uncle on his mother's side — the geographic and social web is exceptionally tight.
+
+**Thomas Nixe's documented children** (via John Newton's will and Foster 1928):
+- *Sons (brothers of Marie):* John Nixe of Burton, George Nixe of Burton, Thomas Nixe of Stonesby
+- *Marie* (b.c.1520) — married John Newton of Westby
+- *"Sister Coye"* — married a Coy man; identity unresolved; likely born c.1515–1530, Burton Coggles
+- *"Sister Nixe"* — mentioned alongside "sister Coye" in Marie's 1565 will; married name or birth name unknown
+
+**Why "sister Nixe" is puzzling:** In 16th-century usage, a woman would normally be referred to by her husband's surname after marriage. "Sister Nixe" being called "Nixe" in Marie's 1565 will suggests she either: (a) never married, (b) was widowed and reverted to her birth name, or (c) married someone who also had the Nixe surname (rare but possible in a small village).
+
+### Tracing "Sister Coye" — Access Roadmap
+
+Every route to the specific marriage record or parental will requires authentication or subscription:
+
+| Document | Repository | Access |
+|---|---|---|
+| Burton Coggles marriage register 1538–1560 | FamilySearch (images online) | Free account required |
+| Boyd's Marriage Index 1538–1850 (Lincolnshire) | Findmypast | Subscription |
+| Wills & Admin at Lincoln Vol. III (1540–1659) | Findmypast / Lincolnshire Archives | Subscription or archive visit |
+| Thomas Nixe's will (d. before 22 Mar 1545) | Lincoln Consistory Court or PCC | Same as above |
+| Katherine Nixe's will (dated 22 Mar 1544/5) | Lincoln Consistory Court or PCC | Same as above |
+| Foster 1928 "Sir Isaac Newton's Family" pp.28–32 | Archive.org (vol. unclear) or library | Volume not yet located online |
+
+**The single most efficient free action remaining:** Log in to FamilySearch, navigate to the Burton Coggles parish register collection (baptisms/marriages/burials, 1538+), and search the marriage records for any Nixe woman marrying a Coy man between 1530 and 1560. Even if the Burton Coggles register starts at 1538, the marriage could have taken place at Bassingthorpe-with-Westby (register starts 1542) or another nearby parish.
+
+**The best paid action:** A Findmypast day pass would unlock Boyd's Marriage Index for Lincolnshire (1538–1850) — a direct surname search for NIXE as bride with groom surname COY or COYE would likely surface the marriage immediately if it's indexed.
+
+---
+
 ### Mary (Coy) Lake — WikiTree Coy-161 Findings
 
 Mary Coy is the daughter of Richard Coy (the patriarch) most relevant to the data.js "lucy-mary-coy" entry. Key established facts:
