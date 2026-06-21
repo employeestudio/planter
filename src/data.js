@@ -193,15 +193,15 @@ export const people = [
   },
   {
     id: "lucy-mary-coy",
-    name: 'Lucy "Mary" Ann Coy',
-    birth: { year: 1623, place: "lincolnshire" },
+    name: "Mary Coy",
+    birth: { year: 1612, place: "lincolnshire" },
     death: { year: 1678, place: "boston" },
     isMainLine: false,
     tags: [],
     generation: 2,
     parentIds: ["richard-coy-1590"],
     spouseId: "john-lake",
-    notes: "Emigrated 1638 with brothers Matthew and Richard. Married John Lake, a tailor of Boston, before 1654. Relationship confirmed: Matthew Coy I is listed as 'brother-in-law' in John Lake's will. Death date corrected to May 13, 1678, Boston (previous data.js had 1675, which was an error). Name note: recorded in sources as both 'Lucy Coy' and 'Mary Coy'; some sources conflate her with an earlier Mary Coy (b.~1612) — these may be the same person or two distinct individuals; unresolved.",
+    notes: "Emigrated 1638 with brothers Matthew and Richard. Married John Lake, a tailor of Boston, c. August 1644. Children: Caleb (1645), Persis (1647), Mary (1649). Relationship confirmed: Matthew Coy I is listed as 'brother-in-law' in John Lake's will. Name: previously recorded as 'Lucy Coy' in some compiled genealogies — WikiTree Coy-161 (citing Hunt, NEHGR Jan 1959:236) confirms the name is Mary. Birth year per WikiTree Coy-161. Death date disputed: WikiTree gives ~1655; other sources give May 13, 1678 — unresolved.",
   },
   {
     id: "john-lake",

@@ -1541,4 +1541,192 @@ Washington County, Indiana is directly adjacent to Lawrence County, Illinois. Th
 
 ---
 
-*Last updated: June 5, 2026. Source Figma file: figma.com/design/anBukqcL7WkargHy9nxGWf/Genealogy-Tree-Cleaner*
+---
+
+## 28. Richard Coy of Lincolnshire — Origins Research (June 2026)
+
+### What We Know About Richard Coy (c.1590–1638)
+
+Richard Coy is the patriarch of the entire American Coy line. He never emigrated. His will was dated **December 2, 1637** and proved at **Stamford, Lincolnshire, April 10, 1638** — his death was almost certainly the direct trigger for sons Matthew and Richard departing for New England that same year.
+
+**Wife:** Lucy Lenten (also recorded as "Luciana Lenton"). Her surname is itself a **Lincolnshire locational name**, derived from the village of **Lenton** in Beltisloe Hundred, approximately 12 miles north of Stamford (and ~30 miles south of Boston). Lenton's parish records extend to 1538 (Bishop's Transcripts from 1561). This creates a tight geographic cluster: Richard's will proved at Stamford + Lucy's surname pointing to a village just north of it both place the family in **south Kesteven, Lincolnshire** — a corridor between Stamford and Boston.
+
+**Children:** Matthew (b.c.1622–23), Richard (b.c.1625), and Mary/Lucy (b.c.1623) all emigrated in 1638. The sons are identified in Whittingham group records as from "Boston" — Boston, Lincolnshire, the great Puritan port ~35 miles north of Stamford.
+
+**What is not yet found:** No record of Richard's parents or grandparents. He does not appear in *Lincolnshire Pedigrees* (those visitation records covered only armigerous gentry; the Coys were almost certainly yeomen or tradespeople). The FamilyTreeDNA Coy project names him as the documented patriarch but records no ancestors above him.
+
+---
+
+### The Coy Surname — Three Origin Theories
+
+**1. Locational from Quy, Cambridgeshire (strongest documented case)**
+
+The place now called **Stow-cum-Quy** in Cambridgeshire was spelled "Coeia" in the 12th century and means **"Cow Island"** from Old English *cū* (cow) + *ēg* (island) — it was a hummock in the East Anglian fens. The surname emerged from people who came from or held land there:
+
+| Record | Year | Source |
+|---|---|---|
+| Felice de Quoy | 1273 | Hundred Rolls of Cambridge |
+| Walkelin de Queye | 1292 | Cambridgeshire Pipe Rolls |
+| Ralph de Quoye | 1292 | Cambridgeshire Pipe Rolls |
+
+All early surname records are Cambridgeshire. The geographic fit is compelling: Stow-cum-Quy is only **~25 miles from Stamford**. A family from the Quy manor area migrating north into Kesteven over a generation or two before Richard's birth c.1590 would explain everything.
+
+**2. Old French nickname "coi" (plausible, parallel origin)**
+
+The word *coi* (earlier *quei*) in Old French meant "quiet, calm, still" — from Latin *quietus* (the root of the English adjective "coy"). "Walter le Coy" is recorded in 12th-century England as a nickname surname. This is an entirely separate etymology from the Cambridgeshire place-name; some Coy families may trace to this rather than Quy.
+
+**3. Breton noble "Coy" family (almost certainly unrelated)**
+
+A noble Breton family named Coy is documented in parishes of Coray and Trégourez (Finistère, France), with records from 1440 to 1636 and a heraldic blazon of "D'or à trois trèfles d'azur" (gold with three blue trefoils). This is almost certainly a coincidental surname overlap — the Breton name would derive from Cornouaille Breton roots, not English, and has no documented connection to the Lincolnshire line.
+
+**The DNA verdict: 6 haplogroups**
+
+The FamilyTreeDNA Coy project (54 members, admin: Cynthia Coy) identified **6 distinct Y-DNA haplogroups** among American Coy descendants. This is significant: it means the surname was adopted independently by at least 6 unrelated male lineages, consistent with either a locational name (multiple families leaving Quy) or a common nickname (multiple men called "quiet"). The Richard Coy of Lincolnshire line is one of those 6; his specific haplogroup has not yet been tested by a known male-line descendant.
+
+---
+
+### St Botolph Boston, Lincolnshire — Confirmed Parish Presence
+
+The **FreeREG unique surname index** for St Botolph Boston — the great medieval parish church of Boston, Lincolnshire, one of the largest in England — lists **COY, COYE, and COYEE** as registered surnames. This is direct confirmation that the Coy family appears in Boston's parish records. Specific baptism/marriage/burial entries have not yet been retrieved but are accessible via FreeREG or FamilySearch.
+
+---
+
+### The Lucy Lenten / Lenton Connection
+
+If Lucy's surname is locational (as the evidence strongly suggests), her family came from **Lenton village, Beltisloe Hundred, Kesteven** — roughly 12 miles north of Stamford and 23 miles south of Boston. The Lenton surname is well established as a Lincolnshire locational name; a Lenton, Nottinghamshire origin is a secondary possibility but less geographically coherent given where Richard's will was proved.
+
+A plausible working model: the Coy family held roots in **south Kesteven** (Stamford belt), Richard met Lucy from nearby Lenton, and the connection to **Boston** came through the Puritan emigration network — Boston being the hub from which John Whittingham recruited his indenture party, not necessarily the family's ancestral hometown. John Cotton's preaching at St Botolph drew Puritan families from across Lincolnshire from 1612 onward.
+
+---
+
+### Key Sources Consulted
+
+- **FamilyTreeDNA Coy Group** — confirms Richard Coy + Lucy Lenten as earliest documented ancestors; 6 haplogroups identified; 54 members
+- **SurnameDB / your-family-history.com** — Quy etymology (Felice de Quoy 1273, Walkelin de Queye 1292); Cambridgeshire origin documented
+- **Stow-cum-Quy, British History Online (VCH Cambs Vol.10)** — place name confirmed as "Cow Island" from Anglo-Saxon fen geography
+- **Etymonline** — Old French *coi* → Latin *quietus* etymology confirmed for the word; no direct surname documentation
+- **Lenton, Lincolnshire — FamilySearch Wiki** — parish records from 1538 (Bishop's Transcripts 1561); Beltisloe Hundred, Kesteven; ~12 miles north of Stamford
+- **FreeREG — St Botolph Boston** — COY, COYE, COYEE confirmed in parish name index
+- **Partnership of Historic Bostons** — Boston Lincolnshire Puritan context; Atherton Hough, John Cotton, emigration network
+- **Lenton (surname) — Wikipedia** — locational origin from Lincolnshire and Nottinghamshire
+- **your-family-history.com Coy** — Victorian census data: Lincolnshire has 152 Coy records (highest any county), Cambridgeshire 47
+- **Findmypast — Wills & Administrations at Lincoln Vol. I 1320–1660** — index covering the Stamford area probate court where Richard's will was proved
+
+---
+
+### Next Research Steps
+
+1. **Richard Coy's will text** — Lincolnshire Archives or via Findmypast (*Wills & Administrations at Lincoln, Vol. I 1320–1660*). The will would name bequests, possibly siblings, his occupation, and specific village — the highest-value document not yet accessed.
+2. **St Botolph Boston parish records** — FreeREG (freereg.org.uk) or FamilySearch: search for COY/COYE baptisms, marriages, burials 1580–1638. Could establish when the family was in Boston and whether Richard himself was baptized there.
+3. **Lenton, Lincolnshire parish records** (1561 onward) — Search for Lenten/Lenton family to establish Lucy's parentage. Accessible via Findmypast, Ancestry, or FreeReg; records at Lincolnshire Record Office.
+4. **John G. Hunt, "Origin of Matthew and Richard Coy, in 1638 of Boston, Mass."** — *NEHGR* Vol. 116 (January 1959). The foundational academic article; almost certainly cites specific Lincolnshire parish and probate details. Available via NEHGS/American Ancestors membership or university library.
+5. **FamilyTreeDNA Y-DNA testing** — A confirmed male-line descendant of the Richard Coy → Matthew Coy → American line taking a Y-37 or Y-67 test would identify the specific haplogroup, distinguishing this lineage from the other 5 in the project and potentially pointing toward Cambridgeshire vs. other origins.
+
+---
+
+### Richard Coy's Will — Content Findings (Addendum, June 2026)
+
+#### The Hunt Citation — Confirmed
+
+**Hunt, John G. "Origin of Matthew and Richard Coy, in 1638 of Boston, Mass." *New England Historical and Genealogical Register* 116 (January 1959): 236.**
+
+The WikiTree profile for Matthew Coy (Coy-159) cites this article directly, confirming Vol. 116, page 236. Volume 116 of NEHGR corresponds to 1959; the volume numbering runs from 1847 forward with one volume per year. Post-1927 volumes require an **American Ancestors (NEHGS) subscription** — not freely available on Archive.org or HathiTrust. It may be accessed for free at a FamilySearch Center or affiliate library.
+
+#### Will Date — Reverted to December 2, 1637
+
+The WikiTree profile (citing Hunt directly) gives the will date as **December 2, 1637** — not December 22. The Barton compiled genealogy's "December 22" was likely a transcription error expanding "2" to "22." Proved date confirmed: **April 10, 1638**, at Stamford.
+
+#### What the Will Contains (and Does Not Contain)
+
+The most significant fact about Richard Coy's will is what it **omits**. Per the probate calendar and Barton compiled genealogy:
+
+> *"The document provided neither places nor names of wife or children."*
+
+Richard is not named as residing anywhere specific. His wife is not named. His children are not named individually. The will states only that each child receives **£5** if the widow remarries. This is why connecting the will to the American Coy line required Hunt's scholarship — the document itself does not establish the family link.
+
+#### The Three Witnesses
+
+The will's witnesses are:
+
+| Witness | Significance |
+|---|---|
+| **John Lenten** | The only place the Lenten surname appears in direct documentary connection with Richard Coy; almost certainly a relative of the mother |
+| **Adam Townsend** | Unknown; likely a neighbor or associate |
+| **John Snart** | Unknown |
+
+John Lenten as a witness directly corroborates the identification of the mother as "Lenten" by family name, even though the will does not name her.
+
+#### The Mother's Identity — First Name Not in Hunt
+
+WikiTree (Coy-159) lists the mother as **"Unknown (Lenten) Coy"** — birth name Lenten, first name unknown from primary sources. The name "Lucy" or "Lucian" that appears in many compiled genealogies (Barton, MyHeritage) is a **secondary-source addition not traceable to Hunt's article**. WikiTree's entry, which is the most carefully sourced profile and cites Hunt directly, declines to assign a first name.
+
+What is established: her birth surname was **Lenten**. Anything beyond that requires verification against the actual Hunt article or Lincolnshire parish records.
+
+#### The Sibling Who Married John Lake — Mary, Not Lucy
+
+A key error in the secondary literature: the Pane-Joyce genealogy (clarku.edu) records "a daughter Lucy who married Mr. John Lake." **This is wrong.** WikiTree (Coy-159, citing Hunt) records the sibling as **Mary (Coy) Lake** (WikiTree ID: Coy-161), born c. 1612, Boston, Lincolnshire. John Lake was a tailor of Boston, Massachusetts; Mary was his first wife. WikiTree Bulkeley-440's research notes flag this exact "Lucy/Mary" confusion as the source of erroneous Coy connections in the Bulkeley line.
+
+Mary came to New England in 1638 alongside Matthew and Richard. By 1641 she was serving as a domestic to **Atherton Haugh of Boston** (the same employer as Matthew, who served as Haugh's barber).
+
+#### The Bulkeley Claim — Rejected for the Concord Branch
+
+WikiTree (Coy-159) explicitly states: *"There was no relationship with the Bulkeleys of Concord as has been claimed."*
+
+The "Bulkeleys of Concord" are the family of **Rev. Peter Bulkeley** (1583–1659), who founded Concord, Massachusetts. The note specifically rejects the claim that the Coy siblings had a "nephew/uncle relationship" with this branch. The previously circulating claim (found in Barton and summarized in an earlier version of these research notes) that Hunt's methodology rested on a Bulkeley family connection should be treated as unverified pending direct access to the Hunt article. It may have originated from garbling of the Pane-Joyce "Lucy → John Lake" error or from another compiled genealogy that misread the Coy–Lake–Bulkeley social network.
+
+**What this means:** The Barton genealogy's narrative about Hunt building the case through an "uncle/nephew relationship with Edward Bulkeley" may be accurate for a *different* Edward Bulkeley — specifically Edward Bulkeley of Chelmsford (Bulkeley-440, born Odell, Bedfordshire; died 1696 Chelmsford, MA), not the Concord family. But until the Hunt article is read directly, this distinction cannot be confirmed.
+
+#### The 1638 Emigration Route
+
+Per WikiTree (Coy-159):
+- Matthew, Richard, and Mary traveled from Boston, Lincolnshire to **London**, where they stayed with **John Whittingham**
+- They sailed to New England in summer 1638, arriving at Boston, Massachusetts approximately late August or early September
+- The specific ship has **not been identified**
+
+Matthew was listed as 15 years old in 1638 (supporting b. ~1622/23). He served as barber to Atherton Haugh by 1641.
+
+#### Grandfather's Location — "Burton Cottles, Lincolnshire" (Uncertain)
+
+WikiTree lists the grandfather as being from **"Burton Cottles, Lincolnshire."** This is geographically suspect — "Burton Cottles" is a village in Wiltshire, not Lincolnshire. The likely intended place is **Burton Coggles**, a small village in Kesteven, Lincolnshire (~15 miles south of Grantham, ~20 miles north of Stamford). If accurate, this would place the patrilineal Coy family in the same south Kesteven corridor as the Stamford probate court and the Lenton village hypothesis. This needs verification against the WikiTree source or the Hunt article.
+
+#### Revised Priority List
+
+1. **Hunt, NEHGR Vol. 116, Jan 1959, p. 236** — The single most critical source. Read it to establish: (a) the exact basis for attributing Lincolnshire origin, (b) whether the mother's first name is given, (c) whether a Bulkeley connection is actually used as evidence and for which Bulkeley, (d) any specific Lincolnshire parish or village named, (e) a complete children's list. Access via NEHGS/American Ancestors membership or a library FamilySearch Center.
+2. **Lincolnshire Archives will image** — The actual document (Consistory Court of Lincoln, Book "B," 1638–1639). Will confirm witnesses and exact wording of the December 2 date. Order directly from Lincolnshire Archives, Lincoln, UK (Findmypast paywalled; CalmView returning 500 errors as of June 2026).
+3. **WikiTree Mary (Coy) Lake (Coy-161)** — Read this profile to establish Mary's full birth/death record, when she arrived in New England, what sources are cited, and whether Hunt's article provides her birth year and Lincolnshire origin.
+4. **Burton Coggles, Lincolnshire parish records** — If the grandfather was from Burton Coggles (not Wiltshire), this is the patrilineal Coy home parish. FreeREG and Lincolnshire Archives would cover its registers from the 16th century onward.
+5. **Lenton, Lincolnshire parish records** — FreeREG or Lincolnshire Archives to find the Lenten family of origin and establish the mother's parentage.
+
+---
+
+### Mary (Coy) Lake — WikiTree Coy-161 Findings
+
+Mary Coy is the daughter of Richard Coy (the patriarch) most relevant to the data.js "lucy-mary-coy" entry. Key established facts:
+
+| Field | Value | Source |
+|---|---|---|
+| Birth | c. 1612, Boston, Lincolnshire | WikiTree Coy-161 |
+| Parents | Richard Coy + Unknown (Lenten) Coy | WikiTree Coy-161 |
+| Death | c. 1655, Boston, Massachusetts | WikiTree Coy-161 |
+| Marriage | John Lake, c. August 1644 | WikiTree Coy-161 |
+| Children | Caleb (b. 1645), Persis (b. 1647), Mary (b. 1649) | WikiTree Coy-161 |
+
+**The "Lucy" name is an error** originating from the Pane-Joyce compiled genealogy (clarku.edu), which wrote "a daughter Lucy who married John Lake." The correct name established by Hunt (per WikiTree) is Mary. WikiTree Coy-161's primary source for biographical details is "Early Settlers of Essex and Old Norfolk," *NEHGR* Vol. 6 (1852).
+
+**Data.js corrections needed in `lucy-mary-coy` entry:**
+- `name`: Change from `'Lucy "Mary" Ann Coy'` to `"Mary Coy"`
+- `birth.year`: Change from `1623` to `1612` (1623 is Matthew's birth year, not Mary's)
+- `death.year`: WikiTree says ~1655; data.js currently says 1678 (per earlier source) — discrepancy unresolved, flag in notes
+- `notes`: Remove the "Lucy/Mary" ambiguity language; state that WikiTree (citing Hunt) confirms name is Mary
+
+#### Hunt Citation Volume Discrepancy
+
+Two different AI-extracted readings from WikiTree profiles give different volume numbers for the same Hunt article:
+- **Matthew Coy (Coy-159)**: cites Hunt as Vol. **116**, January 1959, p. 236
+- **Mary Coy (Coy-161)**: cites Hunt as Vol. **113**, 1959, p. 236
+
+Mathematically, NEHGR Vol. 113 = 1959 (one volume per year from Vol. 1 in 1847: 1847 + 112 = 1959). Vol. 116 would be 1962. The page number (236) is consistent across both. The most likely explanation: the WikiTree profile says "113" and one AI extraction misread it as "116," or vice versa. **For searching, use January 1959, page 236** regardless of volume number — that's sufficient to locate the article.
+
+---
+
+*Last updated: June 20, 2026. Source Figma file: figma.com/design/anBukqcL7WkargHy9nxGWf/Genealogy-Tree-Cleaner*
